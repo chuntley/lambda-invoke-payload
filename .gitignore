@@ -1,0 +1,5 @@
+bin
+debug
+debug.test
+.vscode
+.DS_Store
